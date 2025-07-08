@@ -24,7 +24,7 @@
 - **Databases**:  SQL, DBMS, MySQL   
 - **AI/ML**:  Machine Learning, Pandas, Numpy   
 - **Software Design**:  Agile Methodologies
-- **Tools**:  Eclipse, PostMan, GitHub, Visual Code (VS Code)
+- **Tools**:  Eclipse, PostMan, GitHub, Visual Studio Code (VS Code)
 
 ### **Certifications**  
 - Python Domain - Hackerrank
